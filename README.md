@@ -6,7 +6,7 @@
 | ------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Sponsor** |  _No event_ |   meteocontrol  |  _No event_  |  TEAM23 |    digitalXL   | AraCom |   _No event planned so far_  |   _No event planned so far_  |   Peerigon  |  _No event_  |   Tuxedo |   _No event planned so far_  |
 | **Confirmation** |  _-_ |   ✅   |  _-_ | ✅ | 🔒 |  ✅  |   _-_  |  _-_  |  🔒  | _-_ | 🔒 |   _-_  |
-| **Preferred Date** | _-_ | 20.02. | _-_ | 24.04.| 22.05. | 12.06. | _-_ | _-_ | _-_ | _-_ | _-_ | _-_ |
+| **Preferred Date** | _-_ | 20.02. | _-_ | 24.04.| 22.05. | 12.06. | _-_ | _-_ | _-_ | _-_ | 13.11. | _-_ |
 
 ## Planning 2024
 
