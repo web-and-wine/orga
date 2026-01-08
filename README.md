@@ -4,9 +4,9 @@
 >
 >| **Month**   | Jan | Feb | Mar | Apr | May | Jun | Jul | Aug | Sep | Oct | Nov | Dec |
 >| ------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
->| **Sponsor** |  _No event planned so far_  |   _No event planned so far_   |  _No event planned so far_   |  _No event planned so far_  |    _No event planned so far_    | _No event planned so far_  |   _No event planned so far_   |   _No event_  |   _No event planned so far_   |  _No event planned so far_   |   _No event planned so far_  |   _No event planned so far_  |
->| **Confirmation** |  _-_ |   _-_   |  _-_ | _-_ | _-_ |  _-_  |  _-_ |  _-_  |  _-_ | _-_ | _-_ |   _-_  |
->| **Preferred Date** | _-_ | _-_ | _-_ | _-_ | _-_ | _-_ | _-_ | _-_ | _-_ | _-_ | _-_ | _-_ |
+>| **Sponsor** |  Makandra  |   _No event planned so far_   |  _No event planned so far_   |  _No event planned so far_  |    _No event planned so far_    | Makandra |   _No event planned so far_   |   _No event_  |   _No event planned so far_   |  _No event planned so far_   |   _No event planned so far_  |   _No event planned so far_  |
+>| **Confirmation** |  ✅ |   _-_   |  _-_ | _-_ | _-_ |  ❌  |  _-_ |  _-_  |  _-_ | _-_ | _-_ |   _-_  |
+>| **Preferred Date** | 29.01. | _-_ | _-_ | _-_ | _-_ | _-_ | _-_ | _-_ | _-_ | _-_ | _-_ | _-_ |
 
 ## Planning 2025
 
